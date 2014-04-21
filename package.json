@@ -41,7 +41,7 @@
     "gulp-svg2ttf": "0.0.6",
     "gulp-ttf2eot": "0.0.7",
     "gulp-ttf2woff": "0.0.5",
-    "gulp-svgicons2svgfont": "0.0.9",
+    "gulp-svgicons2svgfont": "pprince/gulp-svgicons2svgfont#log-and-error-options",
     "plexer": "0.0.2"
   },
   "devDependencies": {
